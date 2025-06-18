@@ -44,7 +44,6 @@ public class NumberAnalyzer {
         } else {
             System.out.println(numbers[0] + " is equal to " + numbers[4]);
         }
-        
         scanner.close();
     }
 } 
